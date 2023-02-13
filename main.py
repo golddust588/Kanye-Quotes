@@ -11,7 +11,7 @@ def get_quote():
 
 
 window = Tk()
-window.title("Kanye Says...")
+window.title("Kanye Says... Press me to know the truth!")
 window.config(padx=50, pady=50)
 
 canvas = Canvas(width=600, height=545)
